@@ -156,7 +156,7 @@ const reset = () => {
   document.querySelectorAll('.options button').forEach(button => {
     button.setAttribute('tabindex', 0);
   });
-  document.querySelector('.result__button') / setAttribute('tabindex', -1);
+  document.querySelector('.result__button').setAttribute('tabindex', -1);
 };
 
 const init = () => {
