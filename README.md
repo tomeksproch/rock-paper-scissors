@@ -1,4 +1,5 @@
-# LIVE DEMO OF THIS PROJECT: proch-rock-paper-scissors.netlify.app
+# LIVE DEMO OF THIS PROJECT: 
+https://sproch-rock-paper-scissors.netlify.app/
 
 
 
